@@ -11,3 +11,7 @@ https://www.kaggle.com/datasnaek/youtube-new
 ### 数据挖掘互评作业二: 频繁模式与关联规则挖掘
 使用的数据集为：   
 https://www.kaggle.com/zynicide/wine-reviews  
+
+### 数据挖掘课程作业三：分类、预测与聚类
+使用的数据集为：   
+https://www.kaggle.com/gregorut/videogamesales
